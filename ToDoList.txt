@@ -1,0 +1,5 @@
+Vaccum,1
+Clean Kitchen,2
+Homework,3
+Laundry,4
+Shower,5
